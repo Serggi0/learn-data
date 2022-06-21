@@ -1,0 +1,4 @@
+﻿https://habr.com/ru/post/670668/
+https://yuthakarn.medium.com/how-to-not-show-credential-in-jupyter-notebook-c349f9278466
+
+https://github.com/glebmikha/sql-course/tree/main/2-connect-and-upload
