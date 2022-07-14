@@ -1,4 +1,5 @@
-﻿project_requirements/
+﻿istra/
+project_requirements/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
