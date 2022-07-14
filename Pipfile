@@ -10,6 +10,11 @@ psycopg2-binary = "*"
 matplotlib = "*"
 jinja2 = "*"
 python-dotenv = "*"
+scikit-learn = "*"
+numpy = "==1.23"
+scipy = "*"
+seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 ipykernel = "*"
