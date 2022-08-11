@@ -15,6 +15,7 @@ numpy = "==1.23"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+simplejson = "*"
 
 [dev-packages]
 ipykernel = "*"
